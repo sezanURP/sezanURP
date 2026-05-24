@@ -51,11 +51,11 @@ I am a passionate developer who loves solving real-world problems through code. 
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,html,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,html,css,tailwindcss,git)](https://skillicons.dev)
 
 <br/>
 
-## 🌐 Connect with me
+
 ## 🌐 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/habibur-rahman-sezan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
